@@ -57,7 +57,7 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .pad_bot3 {padding-bottom:0px}
 .pad_top {padding-top:44px; padding-bottom:0px}
 .marg_right1 {margin-right:20px}
-.box {background:url(../images/menu_bg.png) repeat;color:#faf3ed;box-shadow:0 0 5px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 5px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .4)}
+.box {background:url(../images/box_bg.png) repeat;color:#faf3ed;box-shadow:0 0 5px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 5px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .4)}
 .box > div { 0 top no-repeat;padding:30px;padding-top:0;overflow:hidden}
 .box h4 {color:#FFCC66;font-size:12px;line-height:1.2em;padding:-10px 0 9px 0;letter-spacing:-1px}
 .box h5 {color:#faf3ed;font-size:20px;line-height:1.2em;padding:-10px 0 9px 0;letter-spacing:-1px}

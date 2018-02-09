@@ -40,6 +40,8 @@ table, table td {
 }
 img {
 	vertical-align:top; 
+	 border-color: white;
+	 border-width: 2px;
 }
 embed { 
 	vertical-align:top;
